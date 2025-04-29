@@ -47,8 +47,10 @@ I'm an experienced AI/ML Engineer with **5+ years in Deep Learning and NLP**, an
 - Developed an AI-powered engine using **Elasticsearch** and ML models on **70+ GB** of real-time company data.
 - Designed **BERT-based** tech stack classifiers with 85% accuracy.
 
-### 🔹 BCET Department Chatbot (Indiana State University)
-- Built a **course advisory chatbot** for the college, integrating logic for pre-requisites and future outcomes.
+### 🔹 ECET Research Assistant (Indiana State University)
+- Developing a Chatbot for the ECET Department at **Bailey College of Engineering and Technology**, collaborating with stakeholders to enhance user experience.
+- Implemented features for **course selection**, **pre-requisites**, and **future outcomes**.
+- Ensured the chatbot met the needs of **parents and students** through collaboration with professors and administrative assistants.
 
 ---
 
